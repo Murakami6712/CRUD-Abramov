@@ -1,4 +1,4 @@
-package edu.javavt19.config.model;
+package edu.javavt19.model;
 
 import org.hibernate.validator.constraints.NotEmpty;
 import javax.persistence.*;
