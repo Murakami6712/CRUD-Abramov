@@ -7,7 +7,7 @@
 
 
     <groupId>javavt19</groupId>
-    <artifactId>CRUD-Abramov</artifactId>
+    <artifactId>CRUD-Vlad</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -129,9 +129,9 @@
 
         <!--WebJars-->
         <dependency>
-        <groupId>org.webjars</groupId>
-        <artifactId>bootstrap</artifactId>
-        <version>3.1.0</version>
+            <groupId>org.webjars</groupId>
+            <artifactId>bootstrap</artifactId>
+            <version>3.1.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.webjars</groupId>
